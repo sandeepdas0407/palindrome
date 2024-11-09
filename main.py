@@ -4,5 +4,5 @@ from test2 import is_palindrome
 if is_palindrome("SanaSD"):
     print("True")
 
-print("All tests passed with flying colors!")
+print("All tests passed with flying colors! dded content")
 
